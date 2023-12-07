@@ -1,6 +1,6 @@
 public class Task_06 {
     public static void main(String[] args) {
-        System.out.println("Задание №6");
+        System.out.println("Задани №6");
         int totalNumbers = 100000;
         int excludedCount = 0;
 
